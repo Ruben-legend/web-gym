@@ -23,11 +23,11 @@ export const Navbar = () => {
                 <span className='nav-icon'></span>
             </label>
             <ul className="menu">
-                <li><Link to='#'>Header</Link></li>
-                <li><Link to='#'>Feature</Link></li>
-                <li><Link to='#'>OFTER</Link></li>
-                <li><Link to='#'>ABOUT</Link></li>
-                <li><Link to='#'>CONTACT</Link></li>
+                <li><Link to='main'         smooth={true} duration={1000}>Header</Link></li>
+                <li><Link to='features'     smooth={true} duration={1000}>Feature</Link></li>
+                <li><Link to='presentation' smooth={true} duration={1000}>OFTER</Link></li>
+                <li><Link to='about'        smooth={true} duration={1000}>ABOUT</Link></li>
+                <li><Link to='contact'      smooth={true} duration={1000}>CONTACT</Link></li>
             </ul>
         </nav>
     )
