@@ -200,8 +200,8 @@ nav .menu-btn,
 .a-b-img img{
     padding: 15px;
     margin-top: 40px;
-    width:100%;
-    height: 50%;
+    width:  100%;
+    height: 60%;
 
 }
 .a-box:hover{
@@ -220,6 +220,8 @@ nav .menu-btn,
 }
 .a-b-text h2{
     color: #fff;
+    font-size: 25px;
+    padding-bottom: 20px;
 }
 .a-b-text p{
     margin: 0px;
@@ -272,7 +274,7 @@ nav .menu-btn,
 .pr-heading .details{
     font-size: 1.2rem;
 }
-.pr-heading h1{
+.pr-heading h1,h2{
 	font-family:'Lato';
 	font-size: 4rem;
 	margin:0px;
