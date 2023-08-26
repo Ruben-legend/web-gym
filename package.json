@@ -1,7 +1,6 @@
 {
   "name": "web-gym",
   "private": true,
-  "homepage": "https://ruben-epic.github.io/web-gym",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
