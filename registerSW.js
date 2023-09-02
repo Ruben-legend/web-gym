@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://Ruben-epic.github.io/web-gym/sw.js', { scope: 'https://Ruben-epic.github.io/web-gym/' })})}
